@@ -93,7 +93,7 @@ LightGBM: 0.88
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sazzad Hossain**
 
 📧 sazzadhossain74274@gmail.com
 
